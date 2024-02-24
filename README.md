@@ -1,0 +1,1 @@
+You can check slate.js-template-editor. [here]([https://stopnoanime.github.io/21-online/](https://codesandbox.io/p/sandbox/slatejs-05x-rich-text-editor-example-forked-pol5b?file=%2Fsrc%2Findex.js%3A8%2C1)https://codesandbox.io/p/sandbox/slatejs-05x-rich-text-editor-example-forked-pol5b?file=%2Fsrc%2Findex.js%3A8%2C1).
